@@ -1,3 +1,5 @@
 ## kadjavaprog3
 
-#fazeratividadeaqui 
+fazeratividadeaqui 
+
+![stonks](stonks.jpg)
